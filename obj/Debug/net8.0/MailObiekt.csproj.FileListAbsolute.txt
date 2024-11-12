@@ -1,0 +1,14 @@
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\bin\Debug\net8.0\MailObiekt.exe
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\bin\Debug\net8.0\MailObiekt.deps.json
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\bin\Debug\net8.0\MailObiekt.runtimeconfig.json
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\bin\Debug\net8.0\MailObiekt.dll
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\bin\Debug\net8.0\MailObiekt.pdb
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\obj\Debug\net8.0\MailObiekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\obj\Debug\net8.0\MailObiekt.AssemblyInfoInputs.cache
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\obj\Debug\net8.0\MailObiekt.AssemblyInfo.cs
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\obj\Debug\net8.0\MailObiekt.csproj.CoreCompileInputs.cache
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\obj\Debug\net8.0\MailObiekt.dll
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\obj\Debug\net8.0\refint\MailObiekt.dll
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\obj\Debug\net8.0\MailObiekt.pdb
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\obj\Debug\net8.0\MailObiekt.genruntimeconfig.cache
+C:\Users\новий_користувач\OneDrive\Робочий стіл\zadanieemailobiekt\MailObiekt\obj\Debug\net8.0\ref\MailObiekt.dll
